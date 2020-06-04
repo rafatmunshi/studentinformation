@@ -15,10 +15,10 @@ For running this project on your PC and local setup, follow following steps-
 7.	If you have any issues, please contact me.
 
 Improvements needed to this project and Extra features implemented by me for my university-
-Styling of the student details form is improved as shown in the Software Design Document.
-Add student image in the pdf as well
-Add image details in the image table of the database for better mapping
-Admin login added for- Year wise, class wise, division wise, Gender wise, cast wise, category wise, religion wise, 
+1. Styling of the student details form is improved as shown in the Software Design Document.
+2. Add student image in the pdf as well
+3. Add image details in the image table of the database for better mapping
+4. Admin login added for- Year wise, class wise, division wise, Gender wise, cast wise, category wise, religion wise, 
                        age wise student list created and maintained using this portal, print and export to excel.
 
 For all other details please check the SRS and SDD documents.
@@ -27,13 +27,16 @@ Thanks!
 
 
 Overall Description
+
 2.1	Product perspective
+
 Figure 1 - System Environment use case
 
 ![](images/1.png)
 
 	The Student Registration System has two active actors and one cooperating system. 
 The student can register to a course for a particular semester, view and update his/her information through this system. The admin can view all students enrolled in a particular course of the University for the particular semester, add or remove and student/s, search any student and view and update his/her details. There is a link to the (existing) Courses table in the database.
+
 2.1	Product Functions
 Context diagram –
 
