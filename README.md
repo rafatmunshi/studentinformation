@@ -29,12 +29,16 @@ Thanks!
 Overall Description
 2.1	Product perspective
 Figure 1 - System Environment use case
+
 ![](images/1.png)
+
 	The Student Registration System has two active actors and one cooperating system. 
 The student can register to a course for a particular semester, view and update his/her information through this system. The admin can view all students enrolled in a particular course of the University for the particular semester, add or remove and student/s, search any student and view and update his/her details. There is a link to the (existing) Courses table in the database.
 2.1	Product Functions
 Context diagram –
+
 ![](images/2.png)
+
 2.2	Operating Environment
 The application should run on any machine with Windows OS.
 2.3	Design and Implementation Constraints
@@ -42,24 +46,44 @@ It is required to implement this web application on Php and mysql database along
 3.	External Interface Requirements
 3.1	User Interfaces
 The GUI interface below will each give an idea of the requirements on each interface of the user and messages to display
+
 ![](images/3.png)
+
 An interface for signing up into the system for a student. This should be the home page. It should take inputs as shown in the figure
+
 ![](images/4.png)
+
 A next interface to complete registering other details and registering in a sem of a course.
 After successfully completing registration, the system should open up a pdf with confirmation message and other details.
+
  ![](images/5.png)
+ 
 An interface for logging into the system for registered students using enrolment id and password
+
 ![](images/7.jpg)
+
 After logging into the system, the student should be able to view his/her details and be able to edit the information.
+
  ![](images/8.png)
+ 
 This is the page for the admin. The admin should be able to view all the enrolled students in a particular course for the particular semester.
+
  ![](images/9.png)
+ 
 The result can be shown in this way.
+
  ![](images/10.png)
+ 
 The interface for the admin to search and view details of a particular student. After this the admin should be able to similarly be able to edit the student’s details.
+
  ![](images/11.png)
+ 
 An interface is to be provided to the admin to register a student similarly.
+
 ![](images/12.png)
+
 Admin should also be able to delete a student from the system in case of fraudulent or mistaken registrations/sign ups
 ER diagram of the students' data stored in the Database is-
+
  ![](images/13.png)
+ 
