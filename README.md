@@ -11,14 +11,16 @@ For running this project on your PC and local setup, follow following steps-
 3.	Paste this folder under your xampp/htdocs folder
 4.	Open localhost/phpMyAdmin, create a new database with the name student. Check user for the database- on localhost, username root and no password.
 5.	Now import the given .sql file in the database. Make sure it’s imported without errors.
-6.	Open localhost/studentinformation, the homepage should be visible. Use the example student login details- enrolmentid- GH1234 and password-12345678 to check the update form.
+6.	Open localhost/studentinformation, the homepage should be visible. Use the example student login details- enrolmentid- GH1234 and password-12345678 to check the update form. Admin login details- username- 0000 password-amu_reg
 7.	If you have any issues, please contact me.
 
 Improvements needed to this project and Extra features implemented by me for my university-
-1. Styling of the student details form is improved as shown in the Software Design Document.
-2. Add student image in the pdf as well
-3. Add image details in the image table of the database for better mapping
-4. Admin login added for- Year wise, class wise, division wise, Gender wise, cast wise, category wise, religion wise, 
+1. Styling bugs removed.
+2. Styling of the student details form is improved as shown in the Software Design Document.
+3. Admin login table created in the database instead of hardcoding in php.
+4. Added student photo in the generated pdf as well
+5. Add image details in the image table of the database for better mapping
+6. Admin login added for- Year wise, class wise, division wise, Gender wise, cast wise, category wise, religion wise, 
                        age wise student list created and maintained using this portal, print and export to excel.
 
 For all other details please check the SRS and SDD documents.
