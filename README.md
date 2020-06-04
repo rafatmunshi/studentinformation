@@ -77,21 +77,21 @@ A next interface to complete registering other details and registering in a sem 
 ![](images/7.jpg)
 An interface for logging into the system for registered students using enrolment id and password
 
- 
+ ![](images/8.png)
 After logging into the system, the student should be able to view his/her details and be able to edit the information.
 
 
- 
+ ![](images/9.png)
 This is the page for the admin. The admin should be able to view all the enrolled students in a particular course for the particular semester.
- 
+ ![](images/10.png)
 The result can be shown in this way.
- 
+ ![](images/11.png)
 The interface for the admin to search and view details of a particular student. After this the admin should be able to similarly be able to edit the student’s details.
 
-
+![](images/12.png)
  
 An interface is to be provided to the admin to register a student similarly.
- 
+ ![](images/13.png)
 Admin should also be able to delete a student from the system in case of fraudulent or mistaken registrations/sign ups.
 
 
