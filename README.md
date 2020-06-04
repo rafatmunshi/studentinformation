@@ -34,13 +34,13 @@ The system also contains a relational database containing a list of courses with
  
 Figure 1 - System Environment use case
 
-
+![](images/1.png)
 	The Student Registration System has two active actors and one cooperating system. 
 The student can register to a course for a particular semester, view and update his/her information through this system. The admin can view all students enrolled in a particular course of the University for the particular semester, add or remove and student/s, search any student and view and update his/her details. There is a link to the (existing) Courses table in the database.
 	
 2.1	Product Functions
 Context diagram –
-
+![](images/2.png)
 
 
 
@@ -55,13 +55,13 @@ It is required to implement this web application on Php and mysql database along
 3.	External Interface Requirements
 3.1	User Interfaces
 The GUI interface below will each give an idea of the requirements on each interface of the user and messages to display
-
+![](images/3.png)
 
 
  
 An interface for signing up into the system for a student. This should be the home page. It should take inputs as shown in the figure
 
-
+![](images/4.png)
 
 
 
@@ -70,11 +70,11 @@ An interface for signing up into the system for a student. This should be the ho
 
  
 A next interface to complete registering other details and registering in a sem of a course.
-
+![](images/5.png)
  
 	After successfully completing registration, the system should open up a pdf with confirmation message and other details like shown in the figure.
  
-
+![](images/7.jpg)
 An interface for logging into the system for registered students using enrolment id and password
 
  
