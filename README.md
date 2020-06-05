@@ -14,7 +14,7 @@ For running this project on your PC and local setup, follow following steps-
 6.	Open localhost/studentinformation, the homepage should be visible. Use the example student login details- enrolmentid- GH1234 and password-12345678 to check the update form. Admin login details- username- 0000 password-amu_reg
 7.	If you have any issues, please contact me.
 
-Improvements needed to this project and Extra features implemented by me for my university-
+Improvements needed to this project and Extra features to be implemented by me for my university-
 1. Styling bugs removed.
 2. Styling of the student details form is improved as shown in the Software Design Document.
 3. Admin login table created in the database instead of hardcoding in php.
